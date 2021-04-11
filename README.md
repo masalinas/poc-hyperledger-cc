@@ -1,6 +1,6 @@
 ## Description
 
-Poc Hyperledger Chain Codes (Smart Contract)
+Poc Hyperledger Chaincode (Smart Contract)
 
 ## Installation
 
