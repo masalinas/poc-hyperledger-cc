@@ -1,7 +1,7 @@
 {
-    "name": "trade-transfer-basic",
+    "name": "poc-hyperledger-cc",
     "version": "1.0.0",
-    "description": "Trade-Transfer-Basic contract implemented in JavaScript",
+    "description": "Hyperledger trade chaincode implemented in JavaScript",
     "author": {
         "name": "Miguel Salinas Gancedo",
         "github": "https://github.com/masalinas",
